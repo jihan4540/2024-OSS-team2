@@ -10,7 +10,7 @@ OSS 역사
 대표적 OSS 소개
 OSS 저작권
 
-## 팀원 이름 및 팀원 깃허브 주소👋
+## 2조 팀원 및 깃허브 주소👋
 - [조예은](https://github.com/20241485)
 - [정서연](https://github.com/wjdtjdus)
 - [김종호](https://github.com/kjh456/git)
